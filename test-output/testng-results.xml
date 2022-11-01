@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T11:16:11 MDT" name="Suite" finished-at="2022-10-20T11:16:48 MDT" duration-ms="36943">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T11:16:11 MDT" name="Test" finished-at="2022-10-20T11:16:48 MDT" duration-ms="36943">
+      <class name="TestCases.RagisterTestCase">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:TestCases.RagisterTestCase@59fd97a8]" started-at="2022-10-20T11:16:11 MDT" name="openbrowser" finished-at="2022-10-20T11:16:33 MDT" duration-ms="21348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Ragiter()[pri:0, instance:TestCases.RagisterTestCase@59fd97a8]" started-at="2022-10-20T11:16:33 MDT" name="Ragiter" finished-at="2022-10-20T11:16:39 MDT" duration-ms="6559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ragiter -->
+      </class> <!-- TestCases.RagisterTestCase -->
+      <class name="TestCases.TestCaseLaptop">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:TestCases.TestCaseLaptop@2a798d51]" started-at="2022-10-20T11:16:39 MDT" name="openbrowser" finished-at="2022-10-20T11:16:48 MDT" duration-ms="8594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="open()[pri:0, instance:TestCases.TestCaseLaptop@2a798d51]" started-at="2022-10-20T11:16:48 MDT" name="open" finished-at="2022-10-20T11:16:48 MDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- TestCases.TestCaseLaptop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
